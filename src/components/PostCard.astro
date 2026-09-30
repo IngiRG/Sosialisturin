@@ -1,0 +1,4 @@
+---
+const {post}=Astro.props; const base=import.meta.env.BASE_URL; const d=post.data; const slug=post.id.replace(/\.(md|mdx)$/,''); const date=d.date.toLocaleDateString('fo-FO',{day:'numeric',month:'long',year:'numeric'});
+---
+<article class="card"><a class="card-art" href={base+'grein/'+slug+'/'}>{d.image?<img src={d.image} alt="" loading="lazy"/>:<div class="art-placeholder"><span>S</span></div>}{(d.category==='Video'||d.category==='Ljóð')&&<span class="play">{d.category==='Video'?'▶':'♪'}</span>}</a><div class="eyebrow">{d.category}{d.section&&<> · {d.section}</>}</div><h2><a href={base+'grein/'+slug+'/'}>{d.title}</a></h2><p>{d.description}</p><div class="meta">{d.author} <span>•</span> {date}{d.duration&&<><span>•</span>{d.duration}</>}</div></article>

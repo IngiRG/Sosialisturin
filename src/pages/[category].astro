@@ -3,4 +3,4 @@ import Base from '../layouts/Base.astro'; import PostCard from '../components/Po
 export function getStaticPaths(){return ['tidindi','astodi','video','ljod'].map(category=>({params:{category}}));}
 const map: Record<string,'Tíðindi'|'Ástøði'|'Video'|'Ljóð'>={tidindi:'Tíðindi',astodi:'Ástøði',video:'Video',ljod:'Ljóð'}; const key=Astro.params.category ?? 'tidindi'; const label=map[key] ?? 'Tíðindi'; const posts=(await getCollection('posts',p=>p.data.category===label)).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf());
 ---
-<Base title={label}><header class="page-head"><div class="eyebrow">Lorem ipsum</div><h1>{label}</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></header><section class="section"><div class="grid three">{posts.map(p=><PostCard post={p}/>)}</div></section></Base>
+<Base title={label}><header class="page-head"><h1>{label}</h1></header><section class="section"><div class="grid three">{posts.map(p=><PostCard post={p}/>)}</div></section></Base>

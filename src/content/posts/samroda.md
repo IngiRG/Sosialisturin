@@ -1,11 +1,11 @@
 ---
-title: "Samrøður sum fara longri"
-description: "Video-røðin hjá Sosialistinum fer at geva gestum tíð til at greiða frá hugsanum og arbeiði."
+title: "Duis aute irure dolor"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
 date: 2026-09-26
 category: "Video"
-section: "Samrøður"
-author: "Sosialisturin"
+section: "Lorem ipsum"
+author: "Lorem Ipsum"
 duration: "24 min"
-tags: ["video"]
+tags: ["lorem"]
 ---
-Her kunnu komandi videosamrøður liggja. Legg eina YouTube- ella Vimeo-innleggingarslóð í `mediaUrl` í frontmatter, so verður spælarin vístur sjálvvirkandi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.

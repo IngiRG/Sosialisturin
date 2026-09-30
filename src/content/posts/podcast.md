@@ -1,11 +1,11 @@
 ---
-title: "Sosialisturin Podcast"
-description: "Greining, samrøður og frágreiðingar í einum formati, tú kanst taka við tær."
+title: "Excepteur sint occaecat"
+description: "Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 date: 2026-09-25
 category: "Ljóð"
-section: "Podcast"
-author: "Sosialisturin"
+section: "Lorem ipsum"
+author: "Lorem Ipsum"
 duration: "32 min"
-tags: ["podcast"]
+tags: ["ipsum"]
 ---
-Ljóðparturin er klárur til podcast. Tá ein MP3-slóð verður løgd í `mediaUrl`, vísir greinin ein innbygdan ljóðspælara.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

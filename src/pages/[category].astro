@@ -1,0 +1,5 @@
+---
+import Base from '../layouts/Base.astro'; import PostCard from '../components/PostCard.astro'; import {getCollection} from 'astro:content';
+const map={tidindi:'Tíðindi',astodi:'Ástøði',video:'Video',ljod:'Ljóð'}; export function getStaticPaths(){return Object.keys(map).map(category=>({params:{category}}));} const key=Astro.params.category; const label=map[key]; const posts=(await getCollection('posts',p=>p.data.category===label)).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf());
+---
+<Base title={label}><header class="page-head"><div class="eyebrow">Sosialisturin</div><h1>{label}</h1><p>{label==='Tíðindi'?'Tíðindi og greining úr Føroyum og heiminum.':label==='Ástøði'?'Longri greinar, hugtøk, týðingar og søgulig sjónarhorn.':label==='Video'?'Samrøður, frágreiðingar og fyrilestrar.':'Podcast, samrøður og ljóðgreinar.'}</p></header><section class="section"><div class="grid three">{posts.map(p=><PostCard post={p}/>)}</div></section></Base>

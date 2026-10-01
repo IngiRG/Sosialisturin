@@ -1,5 +1,5 @@
 ---
-title: "Hamas til reiðar at leyslata gíslar"
+title: "Hamas til reiðar at leyslata gíslar frá byrjan"
 description: "Haaretz skrivar, at Hamas 7. oktobur 2023 var til reiðar at leyslata sivilar gíslar, um partarnir fóru til samráðingar."
 date: 2026-10-01
 category: "Tíðindi"

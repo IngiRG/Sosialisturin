@@ -2,8 +2,8 @@
 title: "BÚSKAPARVØKSTUR FYRI HVØNN?"
 description: "Búskaparvøkstur hevur sett sín dám á allar partar av tilveruni hjá vanliga borgaranum, men merkir vanligi føroyingurin tann vøksturin, hann skapar?"
 date: 2026-10-01
-category: "Tíðindi"
-section: "Arbeiðslív"
+category: "Ástøði"
+section: "Lesarabrøv"
 author: "Sosialisturin"
 featured: false
 image: "/Sosialisturin/buskaparvokstur.jpg"

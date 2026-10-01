@@ -1,5 +1,5 @@
 ---
-title: "FÓLKAMORÐ Í TØLUM 1"
+title: "Fólkamorð í tølum 1"
 description: "Deyðstøl, særd og oyðileggingar í Gasageiranum."
 date: 2026-09-30
 category: "Tíðindi"

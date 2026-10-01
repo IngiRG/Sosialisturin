@@ -1,7 +1,7 @@
 ---
 title: "Kubanska kollveltingin í vanda"
 description: ""
-date: 2026-10-01
+date: 2026-10-01T10:58:00+01:00
 category: "Tíðindi"
 author: "Sosialisturin"
 featured: false

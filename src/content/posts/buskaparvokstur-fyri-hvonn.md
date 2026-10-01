@@ -6,12 +6,12 @@ category: "Tíðindi"
 section: "Arbeiðslív"
 author: "Sosialisturin"
 featured: false
-image: "/Sosialisturin/images/buskaparvokstur.jpg"
+image: "/Sosialisturin/buskaparvokstur.jpg"
 tags: ["búskapur", "arbeiðslív", "lønir", "produktivitetur"]
 ---
 Búskaparvøkstur hevur sett sín dám á allar partar av tilveruni hjá vanliga borgaranum, men merkir vanligi føroyingurin tann vøksturin, hann skapar?
 
-![Produktivitetsvøkstur móti vøkstri í real lønum](/Sosialisturin/images/buskaparvokstur.jpg)
+![Produktivitetsvøkstur móti vøkstri í real lønum](/Sosialisturin/buskaparvokstur.jpg)
 
 Á grafinum niðanfyri síggja vit eina samanbering millum virðisøkingina í føroyska samfelagnum fyri hvønn arbeiðsvirknan føroying og vøksturin í real lønum fyri hvønn arbeiðsvirknan.
 

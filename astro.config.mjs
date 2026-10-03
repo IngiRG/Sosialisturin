@@ -1,2 +1,2 @@
 import { defineConfig } from 'astro/config';
-export default defineConfig({ site: 'https://ingirg.github.io', base: '/Sosialisturin', trailingSlash: 'always' });
+export default defineConfig({ site: 'https://sosialistur.info', trailingSlash: 'always' });

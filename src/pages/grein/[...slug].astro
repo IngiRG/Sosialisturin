@@ -17,7 +17,7 @@ if(node){
  const tick=()=>{
   const remaining=Math.max(0,Math.floor((target-Date.now())/1000));
   const values={days:Math.floor(remaining/86400),hours:Math.floor(remaining%86400/3600),minutes:Math.floor(remaining%3600/60)};
-  for(const [key,value] of Object.entries(values)){if(fields[key])fields[key].textContent=String(value).padStart(2,'0');}
+  for(const key of ['days','hours','minutes'] as const){const field=fields[key];if(field)field.textContent=String(values[key]).padStart(2,'0');}
  };
  tick();setInterval(tick,60000);
 }

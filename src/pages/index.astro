@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro'; import PostCard from '../components/PostCard.astro'; import {getCollection} from 'astro:content';
-import early from '../data/early-access.json';
+import earlyData from '../data/early-access.json'; const early = earlyData as Array<{slug:string;title:string;description:string;releaseAt:string;patreonUrl:string;category:string;section?:string}>;
 const previews=early.filter(item=>new Date(item.releaseAt).getTime()>Date.now());
 const posts=(await getCollection('posts')).sort((a,b)=>b.data.date.valueOf()-a.data.date.valueOf()); const hero=posts.find(p=>p.data.featured)||posts[0]; const rest=posts.filter(p=>p.id!==hero?.id); const base=import.meta.env.BASE_URL; const items=[...rest.map(post=>({kind:'post',post,date:post.data.date.valueOf()})),...previews.map(preview=>({kind:'preview',preview,date:new Date(preview.releaseAt).getTime()}))].sort((a,b)=>b.date-a.date);
 ---

@@ -26,6 +26,6 @@ At enda lýsir hann støðuna í Ísrael-Palestina:
 
 > “Når det gjelder Israel så er situasjonen en helt annen. Israel er et demokrati, man tar demokratiske beslutninger, og i det her tilfellet som mange ser på, så er det jo en nasjon som blir invadert kan man si, eller du har terrorangrep fra en terrororganisasjon, så det kan man slett ikke sammenligne med sånn en situasjon når et land invaderer et annet land”
 
-Regin roynir í samrøðuni als ikki at fjala sína støðu. Hann slær fast, við tilsipanini til Ísrael í bíbliuni, og við sínum misfatanum um stríðið millum Ísrael og Palestina, at hann, og Bakkafrost við, stuðla handli við Ísrael framyvir, og vóna at økja um handilin í framtíðini. 
+Regin roynir í samrøðuni als ikki at fjala sína støðu. Hann slær fast, við tilsipanini til Ísrael í bíbliuni, og við sínum misfatanum um stríðið millum Ísrael og Palestina, at hann, og Bakkafrost við, stuðla handli við Ísrael framyvir. Hann vónar eisini at sølan til Ísrael verður økt í framtíðini. 
 
 Hoyr fullu samrøðuna á facebook síðuni hjá felagsskapinum “Med Israel for fred (MIFF)”.

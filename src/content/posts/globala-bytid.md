@@ -8,6 +8,8 @@ featured: false
 tags: []
 ---
 
+![Globala norður- og suðurparturin](/globala-bytid.png)
+
 Vit í globala norðurpartinum, hava eini ófatilig evni at seta okkum sjálvi í sentrum. Hetta gera vit í so stóran mun, at mest sum allur heimurin verður ein stórur blindvinkul.
 
 Hóast meginparturin av heimsíbúgvunum búgva í globala suðurpartinum, tykist okkara hugaheimur ikki røkka útum okkara part. Miðlarnir, skúlaskipanin og politiska skipanin, síggja til, at øll tey, sum ikki deila okkara virðir eru, fyri okkum, týdningarleys.

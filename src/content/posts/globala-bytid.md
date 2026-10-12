@@ -2,7 +2,8 @@
 title: "GLOBALA BÝTIÐ"
 description: "Vit í globala norðurpartinum, hava eini ófatilig evni at seta okkum sjálvi í sentrum."
 date: 2026-10-12T09:46:00+01:00
-category: "Lesarabrøv"
+category: "Ástøði"
+section: "Lesarabrøv"
 author: "Sosialisturin"
 featured: false
 tags: []

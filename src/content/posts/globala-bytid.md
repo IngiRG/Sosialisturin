@@ -6,6 +6,7 @@ category: "Ástøði"
 section: "Lesarabrøv"
 author: "Sosialisturin"
 featured: false
+image: "/globala-bytid.png"
 tags: []
 ---
 

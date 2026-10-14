@@ -17,7 +17,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install pillow cairosvg
+      - name: Install original Georgia font and image libraries
+        run: |
+          sudo apt-get update
+          echo 'ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true' | sudo debconf-set-selections
+          sudo apt-get install -y ttf-mscorefonts-installer fontconfig
+          fc-match -f '%{family}\n' Georgia | grep -ix 'Georgia'
+          pip install pillow cairosvg cairosvg
       - run: python scripts/generate_social_preview.py
       - name: Commit image
         run: |

@@ -1,11 +1,12 @@
-from PIL import Image, ImageDraw, ImageFont
+"""Render the actual favicon SVG into a social-preview PNG, without redrawing the S."""
+from io import BytesIO
 from pathlib import Path
-import subprocess
+import cairosvg
+from PIL import Image
 
-# Reproduce the favicon's cream Georgia S on a plain red background.
-im = Image.new('RGB', (1200, 630), '#9d1c20')
-draw = ImageDraw.Draw(im)
-font_path = subprocess.check_output(['fc-match', '-f', '%{file}', 'Georgia:style=Bold'], text=True).strip()
-font = ImageFont.truetype(font_path, 480)
-draw.text((600, 315), 'S', font=font, fill='#f4f0e7', anchor='mm')
-im.save(Path('public/social-preview.png'), optimize=True)
+favicon = Path('public/favicon.svg')
+svg_png = cairosvg.svg2png(bytestring=favicon.read_bytes(), output_width=630, output_height=630)
+icon = Image.open(BytesIO(svg_png)).convert('RGB')
+preview = Image.new('RGB', (1200, 630), '#9d1c20')
+preview.paste(icon, ((1200 - 630) // 2, 0))
+preview.save('public/social-preview.png', optimize=True)

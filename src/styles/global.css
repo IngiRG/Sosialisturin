@@ -42,3 +42,8 @@
 .theme-toggle .icon-sun{display:none!important}
 :root[data-theme="dark"] .theme-toggle .icon-moon{display:none!important}
 :root[data-theme="dark"] .theme-toggle .icon-sun{display:block!important}
+
+/* Minimal underline-only theme toggle, no enclosing box. */
+.theme-toggle{border:0;border-bottom:2px solid var(--ink);width:34px;height:34px;background:transparent}
+.theme-toggle:hover{border-color:var(--red);background:transparent;color:var(--ink)}
+.theme-toggle:focus-visible{border-color:var(--red);background:transparent;outline:2px solid var(--red);outline-offset:3px}

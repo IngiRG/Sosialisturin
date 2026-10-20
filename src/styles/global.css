@@ -33,7 +33,7 @@
 :root[data-theme="dark"] .play{background:#eee9df;color:#171512}
 :root[data-theme="dark"] .article-end span{background:#9d1c20;color:white}
 .theme-toggle{appearance:none;border:1px solid var(--ink);background:transparent;color:var(--ink);width:32px;height:30px;display:grid;place-items:center;cursor:pointer;padding:0;border-radius:0;flex-shrink:0;font:22px/1 Arial,sans-serif}
-.theme-toggle:hover,.theme-toggle:focus-visible{color:var(--red);border-color:var(--red)}
+.theme-toggle:hover{color:var(--ink);border-color:var(--ink);background:var(--line)}.theme-toggle:focus-visible{color:var(--ink);border-color:var(--ink);outline:2px solid var(--red);outline-offset:3px}
 @media(max-width:800px){.theme-toggle{order:2}.rss{margin-left:auto}}
 
 /* Crisp, consistent theme toggle icons */

@@ -53,3 +53,21 @@
 .site-header .theme-toggle:hover{color:var(--red);border:0!important;background:transparent!important}
 .site-header .theme-toggle:focus-visible{border:0!important;outline:2px solid var(--red);outline-offset:3px}
 @media(max-width:800px){.site-header .theme-toggle{order:2;margin-left:auto}.site-header nav{order:3}}
+
+/* Consistent, tighter spacing between content and dividing rules. */
+.edition{padding-top:8px;padding-bottom:8px}
+.home-intro{padding-top:34px;padding-bottom:26px}
+.page-head{padding-top:56px;padding-bottom:30px}
+.page-head h1{margin-bottom:18px}
+.page-head p{margin-bottom:0}
+.section{padding-top:38px;padding-bottom:38px}
+.section-head{margin-bottom:20px}
+.section-head h2{line-height:1.1}
+.card{padding-top:12px}
+.card h2{margin-top:8px;margin-bottom:8px}
+.card p{margin-top:0;margin-bottom:10px}
+.card .meta{margin-top:12px}
+.book{padding-top:20px;padding-bottom:20px}
+.article-end{padding-top:18px}
+@media(max-width:800px){.home-intro{padding-top:28px;padding-bottom:22px}.page-head{padding-top:38px;padding-bottom:24px}.section{padding-top:28px;padding-bottom:28px}}
+@media(max-width:600px){.page-head{padding-top:34px;padding-bottom:22px}.page-head h1{margin-bottom:16px}.section{padding-top:26px;padding-bottom:26px}}

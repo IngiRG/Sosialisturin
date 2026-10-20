@@ -71,3 +71,6 @@
 .article-end{padding-top:18px}
 @media(max-width:800px){.home-intro{padding-top:28px;padding-bottom:22px}.page-head{padding-top:38px;padding-bottom:24px}.section{padding-top:28px;padding-bottom:28px}}
 @media(max-width:600px){.page-head{padding-top:34px;padding-bottom:22px}.page-head h1{margin-bottom:16px}.section{padding-top:26px;padding-bottom:26px}}
+
+/* Prevent horizontal header shifts between short and long pages. */
+html{scrollbar-gutter:stable}

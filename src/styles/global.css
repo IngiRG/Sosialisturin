@@ -85,3 +85,9 @@ html{scrollbar-gutter:stable}
 
 /* Restore readable spacing: full justification creates wide rivers in Faroese text. */
 .prose p,.prose blockquote,.prose blockquote p,.article .dek,.card p,.hero-copy>p,.book-info p{text-align:left;text-justify:auto;hyphens:manual;-webkit-hyphens:manual;overflow-wrap:break-word}
+
+/* Justified editorial copy with balanced line lengths and hyphenation. */
+.prose{max-width:620px}
+.prose p{text-align:justify;text-align-last:left;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:normal;word-break:normal}
+.prose blockquote,.prose blockquote p{text-align:left;hyphens:auto;-webkit-hyphens:auto}
+@media(max-width:600px){.prose{max-width:100%}.prose p{hyphens:auto;-webkit-hyphens:auto}}

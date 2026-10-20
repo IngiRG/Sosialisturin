@@ -82,3 +82,6 @@ html{scrollbar-gutter:stable}
 
 /* Newspaper-style justified body copy, with natural Faroese hyphenation. */
 .prose p,.article .dek,.card p,.hero-copy>p,.book-info p{text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}
+
+/* Restore readable spacing: full justification creates wide rivers in Faroese text. */
+.prose p,.prose blockquote,.prose blockquote p,.article .dek,.card p,.hero-copy>p,.book-info p{text-align:left;text-justify:auto;hyphens:manual;-webkit-hyphens:manual;overflow-wrap:break-word}

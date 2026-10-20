@@ -47,3 +47,9 @@
 .theme-toggle{border:0;border-bottom:2px solid var(--ink);width:34px;height:34px;background:transparent}
 .theme-toggle:hover{border-color:var(--red);background:transparent;color:var(--ink)}
 .theme-toggle:focus-visible{border-color:var(--red);background:transparent;outline:2px solid var(--red);outline-offset:3px}
+
+/* Keep the theme icon at the far right on desktop and mobile; no decoration. */
+.site-header .theme-toggle{margin-left:auto;order:4;flex:0 0 34px;border:0!important;border-bottom:0!important;background:transparent!important;box-shadow:none!important;padding:0;color:var(--ink)}
+.site-header .theme-toggle:hover{color:var(--red);border:0!important;background:transparent!important}
+.site-header .theme-toggle:focus-visible{border:0!important;outline:2px solid var(--red);outline-offset:3px}
+@media(max-width:800px){.site-header .theme-toggle{order:2;margin-left:auto}.site-header nav{order:3}}

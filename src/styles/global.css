@@ -79,3 +79,6 @@ html{scrollbar-gutter:stable}
 .site-header .theme-toggle{height:28px;width:34px;flex-basis:34px;align-self:center;transform:translateY(2px)}
 .site-header .theme-toggle .theme-icon,.site-header .theme-toggle .theme-icon svg{width:28px;height:28px}
 @media(max-width:800px){.site-header .theme-toggle{height:24px;transform:translateY(1px)}.site-header .theme-toggle .theme-icon,.site-header .theme-toggle .theme-icon svg{width:24px;height:24px}}
+
+/* Newspaper-style justified body copy, with natural Faroese hyphenation. */
+.prose p,.article .dek,.card p,.hero-copy>p,.book-info p{text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}

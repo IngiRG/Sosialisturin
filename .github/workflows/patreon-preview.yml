@@ -1,0 +1,26 @@
+name: Generate Patreon social thumbnail
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/patreon-preview.svg'
+      - '.github/workflows/patreon-preview.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install cairosvg
+      - run: python -c "import cairosvg; cairosvg.svg2png(url='public/patreon-preview.svg',write_to='public/patreon-preview.png',output_width=1200,output_height=630)"
+      - name: Commit preview
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/patreon-preview.png
+          git diff --cached --quiet || (git commit -m "Generate Patreon preview image" && git push)

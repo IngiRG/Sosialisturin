@@ -91,3 +91,6 @@ html{scrollbar-gutter:stable}
 .prose p{text-align:justify;text-align-last:left;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:normal;word-break:normal}
 .prose blockquote,.prose blockquote p{text-align:left;hyphens:auto;-webkit-hyphens:auto}
 @media(max-width:600px){.prose{max-width:100%}.prose p{hyphens:auto;-webkit-hyphens:auto}}
+
+/* Keep article text readable on narrow screens; avoid stretched spaces from justification. */
+.prose p,.prose blockquote p{text-align:left;text-align-last:auto;text-justify:auto;hyphens:manual;-webkit-hyphens:manual;overflow-wrap:break-word;word-break:normal}

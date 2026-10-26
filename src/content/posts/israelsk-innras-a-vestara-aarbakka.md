@@ -8,7 +8,7 @@ featured: false
 tags: []
 ---
 
-Eftir tað sum nógvir miðlar og Ísraelski staturin hava kalla eitt palestinskt terrorálop, er Ísrael fari í enn ógvusligari hernað ímóti fólkunum á ólógligt hersetta Vestara Áarbakka, serliga Hebron økinum.
+Eftir tað sum nógvir miðlar og Ísraelski staturin hava kallað eitt palestinskt terrorálop, er Ísrael fari í enn ógvusligari hernað ímóti fólkunum á ólógligt hersetta Vestara Áarbakka, serliga í Hebron økinum.
 
 Eitt terrorálop er ein skeiv lýsing av álopinum fríggjadagin. Tað vórðu bert tveir Ísraelskir hermenn dripnir og fimm særdir, meðan ongin sivilur kom til skaða. Tá er vert at vísa á rættin givnan í altjóða lóg, til vápnastríð móti eini ólógligt hersetandi makt.
 

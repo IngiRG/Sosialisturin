@@ -2,7 +2,8 @@
 title: "Ein yðjandi dupult moralur skuggar yvir vesturheiminum"
 description: ""
 date: 2026-10-27T11:29:00+01:00
-category: "Lesarabrøv"
+category: "Ástøði"
+section: "Lesarabrøv"
 author: "Sosialisturin"
 featured: false
 tags: []

@@ -26,7 +26,7 @@ Men tað er lætt at vísa at tann virðingin ikki er til staðar hjá sionistum
 Summar av avgerðunum eru:
 
 1. Ein vegleiðandi meining frá 9. Juli 2004, sum kom til niðurstøðuna at konstruktiónin av múrinum í Palestina fór ímóti altjóða lóg.
-2. 26. januar 2024 setti ICJ krøv til at Ísrael skuldi gera alt at forða fyri fólkamorði og fólkamorðsgerðum í Gasa, eftir at dómstólurin kom til niðurstøðuna, at tað var møguligt at Ísrael hevði forbrotið seg ímun til fólkamorðskonventiónina.
+2. 26\. januar 2024 setti ICJ krøv til at Ísrael skuldi gera alt at forða fyri fólkamorði og fólkamorðsgerðum í Gasa, eftir at dómstólurin kom til niðurstøðuna, at tað var møguligt at Ísrael hevði forbrotið seg ímun til fólkamorðskonventiónina.
 3. Í eini vegleiðandi meining frá 19. juli 2024 kom ICJ til niðurstøðuna at øll hersetingin av palestinsku økjunum, og yvirhøvur at Ísrael er til staðar í palestinsku økjunum er ólógligt. Kravið var at Ísrael, so skjótt sum gjørligt skuldi trekkja seg.
 
 Tað er vert at nevna, at vegleiðandi meiningar eru, hóast ikki juridiskt bindandi í sær sjálvum, bindandi á tann hátt, at tað er altjóða lóg sum verður løgd fram og fylgd, og altjóða lóg er altíð bindandi.

@@ -8,7 +8,7 @@ featured: false
 tags: []
 ---
 
-ST kanningarnevndin, sum í septembur kom til niðurstøðuna at Ísrael fremur fólkamorð í Gasa, er nú mánadagin komin til niðurstøðuna at Ísrael blívir við at fremja fólkamorðsgerðir í Gasa, og, at Ísrael fremur brotsverk móti mannaættini á Vestara Áarbakka. Hesi brotsverk fevna um útrudding(extermination), tortur, neyðtøku og onnur kynslig brotsverk.
+ST kanningarnevndin, sum í septembur kom til niðurstøðuna at Ísrael fremur fólkamorð í Gasa, er nú mánadagin komin til niðurstøðuna at Ísrael heldur fram at fremja fólkamorðsgerðir í Gasa, og, at Ísrael fremur brotsverk móti mannaættini á Vestara Áarbakka. Hesi brotsverk fevna um útrudding(extermination), tortur, neyðtøku og onnur kynslig brotsverk.
 
 Kanningarnevndin leggur í rapportini fram grundgevingarnar fyri hvussu nevndin er komin til niðurstøðuna at Ísrael virkar við neyðugu intentiónini at oyðileggja ein bólk heilt ella partvís, sum er kravd fyri at uppfylla lógarligu krøvini fyri fólkamorð.
 

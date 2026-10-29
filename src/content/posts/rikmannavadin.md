@@ -4,7 +4,7 @@ description: ""
 date: 2026-10-29T14:14:00+01:00
 category: "Ástøði"
 section: "Lesarabrøv"
-author: "Sosialisturin"
+author: "Jens Arni Leo Hammerfoss"
 featured: false
 tags: []
 ---

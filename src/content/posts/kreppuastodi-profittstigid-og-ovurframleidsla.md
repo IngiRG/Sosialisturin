@@ -9,7 +9,7 @@ Marxistisk ástøði, sum vit fara at síggja, er ikki bert ein tómur utopiskur
 
 Ein kapitalistur, sum hevur eitt virki, vil altíð hava tøknifrøðiliga framgongd. Tað vil siga, vil altíð hava betri framleiðslutól, munabetri maskinur o.sfr. Hetta so, at hann kann lækka prísin á vørum og á tann hátt selja fyri lægri prís enn kappingarneytarnir. Hetta hevur við sær, at kapitalisturin ger stórar íløgur í konstantan kapital. Tá ið framleiðslutólini blíva betri og betri undir tøknifrøðiligari menning, lækkar arbeiðstíðin, sum er kravd at framleiða vørurnar, og tískil lækkar variabli kapitalurin í hesi samanseting. Hesir faktorarnir tilsamans leggja upp til, at tað verður ein menning í organisku samansetingini av kapitali, sum sær umleið út sum á ritmyndini niðanfyri.
 
-![menningin í organisku samansetingini av kapitali](/sak.png)
+![menningin í organisku samansetingini av kapitali](/sak.svg)
 
 *menningin í organisku samansetingini av kapitali*
 
@@ -23,7 +23,7 @@ $$
 
 Øll hendan tilgongdin, sum er løgd fram omanfyri, endar við, at profittstigið hevur lyndi til at fella yvir tíð. Hetta er ein av internu mótsetningunum í kapitalistisku skipanini, at tann nátúrliga tilgongdin í framleiðsluni førir til kreppu í skipanini. Hetta verður eftir marxistiskum ástøði sæð sum ein av faktorunum, sum at enda fara at koppa skipanini. Henda ástøðiliga útleiðingin hjá Marx er prógvað empiriskt ferð eftir ferð, og hevur tí eitt sterkt vísindaligt grundarlag í dag. Rokna vit eitt estimat av profittstiginum fyri 183 lond frá 1960 til 2019, fáa vit medianin og miðalin yvir londini, sum víst í grafinum í mynd 5.2.<sup>1</sup>
 
-![profittstigið yvir tíð við data frá PWT 10.01](/prpenn1.png)
+![profittstigið yvir tíð við data frá PWT 10.01](/prpenn1.svg)
 
 *profittstigið yvir tíð við data frá PWT 10.01*
 

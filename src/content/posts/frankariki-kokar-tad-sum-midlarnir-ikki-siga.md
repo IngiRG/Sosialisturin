@@ -2,7 +2,7 @@
 title: Frankaríki kókar; tað sum miðlarnir ikki siga - Ein longri greining
 description: Ein longri greining av mótmælunum í Frankaríki, klassamótsetningum og
   tí, sum miðlarnir ikki siga.
-date: '2026-10-22T12:00:00+01:00'
+date: '2026-11-01T12:00:00+01:00'
 category: Tíðindi
 ---
 

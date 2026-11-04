@@ -1,6 +1,6 @@
 ---
 title: "Hvat er hetta fyri ein samgonga, og hvørja framtíð byggja vit í Føroyum?"
-description: "Eitt lesarabræv um samgonguna, bústaðarstøðuna, vælferðina og framtíðina hjá Føroyum."
+description: ""
 date: 2026-11-04T12:00:00+00:00
 category: "Ástøði"
 section: "Lesarabrøv"

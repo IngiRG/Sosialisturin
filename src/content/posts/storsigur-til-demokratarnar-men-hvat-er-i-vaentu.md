@@ -19,7 +19,7 @@ Sosial demokratar í vesturheiminum taka til, at sigurin er eisini ein sigur fyr
 
 Báðir flokkarnir, republikanararnir og demokratarnir eru fíggjaðir og stýrdir av oligarkum, økonomisku elituni, og teir arbeiða í síðsta enda báðir fyri somu áhugamálum.
 
-Trupulleikin í USA er ikki Trump ella hansara galskapur, trupulleikin er at landið er í kreppu økonomiskt, sosialt og samfelagsliga sum heild. Trupulleikin er nógv djúpri enn Trump, og nógv djúpri enn hvør situr í senatinum, demokratarnir ella republikanararnir.
+Trupulleikin í USA er ikki Trump ella hansara galskapur, trupulleikin er at landið er í kreppu økonomiskt, sosialt og samfelagsliga sum heild. Trupulleikin er nógv djúpri enn Trump, og nógv djúpri enn hvør hevur meiriluta í kongressini, demokratarnir ella republikanararnir.
 
 Nógv á vinstravonginum síggja samstundis sigurin hjá Abdul El-Sayed sum tekin um ljós fyri framman. Gamaní letur sigurin hjá El-Sayed, sum sigurin hjá Zohran Mamdani, upp fyri øðrvísi retorikki viðvíkjandi Palestina og einum linari fremmandahaturi.
 

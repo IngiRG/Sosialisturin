@@ -1,7 +1,7 @@
 ---
 title: 3 ár í helviti
 description: 3 ár í helviti
-date: '2026-10-08T12:00:00+02:00'
+date: '2026-11-07T12:00:00+02:00'
 category: Ástøði
 section: Lesarabrøv
 ---

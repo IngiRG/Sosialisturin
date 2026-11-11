@@ -1,6 +1,6 @@
 ---
 title: "Óerligi miðladækningurin av røðu hjá forsetanum í Nikaragua"
-description: "Um miðladækningina av røðu hjá Daniel Ortega 19. juli 2026 og samanhangin kring útsagnir hansara."
+description: "Um miðladækningina av røðu hjá Daniel Ortega 19. juli 2026"
 date: 2026-11-11
 category: "Tíðindi"
 author: "Sosialisturin"

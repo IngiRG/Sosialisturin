@@ -8,7 +8,7 @@ featured: false
 tags: []
 ---
 
-19. Juli 2026 helt forsetin í Nikaragua, Daniel Ortega, eina røðu sum ófatiliga skjótt varð misstulka, misskilt og óerliga endurgivin í miðlum. 19. juli er ársdagur fyri sigrinum hjá Sandinista kollveltingini í 1979, tá ið brutali amerikanskt stuðlaði einaræðisharrin Somoza varð koppaður. Hvørt ár verður hesin sigurin feiraður um alt landið, og forsetin heldur eina røðu.
+19\. Juli 2026 helt forsetin í Nikaragua, Daniel Ortega, eina røðu sum ófatiliga skjótt varð misstulka, misskilt og óerliga endurgivin í miðlum. 19. juli er ársdagur fyri sigrinum hjá Sandinista kollveltingini í 1979, tá ið brutali amerikanskt stuðlaði einaræðisharrin Somoza varð koppaður. Hvørt ár verður hesin sigurin feiraður um alt landið, og forsetin heldur eina røðu.
 
 Ein setningur í røðuni varð skjótt av vesturlendskum miðlum tikin úr konteksti og óerligt endurgivin, sum hevur ført til ófatiligan kritik móti stjórnini í Nikaragua. Setningurin var:
 

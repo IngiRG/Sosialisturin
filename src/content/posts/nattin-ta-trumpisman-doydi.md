@@ -1,6 +1,6 @@
 ---
 title: "Náttin tá trumpisman doyði"
-description: "Um politisku broytingarnar í USA, populismu og lærdómar frá valstríðnum."
+description: ""
 date: 2026-11-11
 category: "Ástøði"
 section: "Lesarabrøv"

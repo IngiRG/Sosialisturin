@@ -1,0 +1,23 @@
+name: Refresh Patreon podcast
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch public podcast episodes
+        run: python3 scripts/fetch_patreon_podcast.py
+      - name: Commit updated feed
+        run: |
+          if ! git diff --quiet -- src/data/patreon-podcast.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/data/patreon-podcast.json
+            git commit -m "content: refresh public Patreon podcast episodes"
+            git push
+          fi

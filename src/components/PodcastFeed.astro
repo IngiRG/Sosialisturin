@@ -1,5 +1,7 @@
 ---
-import episodes from '../data/patreon-podcast.json';
+import feedData from '../data/patreon-podcast.json';
+type Episode = {title:string;description:string;url:string;audio:string;date:string;preview:boolean};
+const episodes = feedData as Episode[];
 const feedUrl='https://www.patreon.com/public-rss/16895688?show=2493005';
 const podcastUrl='https://www.patreon.com/sosialisturin';
 ---

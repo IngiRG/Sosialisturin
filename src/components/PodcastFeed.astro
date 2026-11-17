@@ -4,7 +4,7 @@ type Episode = {title:string;description:string;url:string;audio:string;date:str
 const episodes = feedData as Episode[];
 const feedUrl='https://www.patreon.com/public-rss/16895688?show=2493005';
 const podcastUrl='https://www.patreon.com/sosialisturin';
-const displayTitle=(title:string)=>title.replace(/^(?:(?:forhåndsvisning|forhåndsvisning:|preview|trailer)\s*[:–—-]?\s*)+/i,'').trim() || title;
+const displayTitle=(title:string)=>title.replace(/^(?:(?:\[\s*(?:forhåndsvisning|preview|trailer)\s*\]|(?:forhåndsvisning|preview|trailer))\s*[:–—-]?\s*)+/i,'').trim() || title;
 ---
 <section class="podcast-feed" aria-label="Patreon poddvarp">
   <div class="podcast-top"><div><div class="eyebrow">Sosialisturin á Patreon</div><h2>Poddvarp</h2><p>Hoyr ókeypis poddvarpspartar og byrjanina av pørtum, sum krevja Patreon-limaskap.</p></div><a href={podcastUrl} target="_blank" rel="noopener noreferrer">Vitja Patreon ↗</a></div>

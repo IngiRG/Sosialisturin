@@ -18,7 +18,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Refresh public Patreon podcast feed\n        run: python3 scripts/fetch_patreon_podcast.py\n      - run: npm install
+      - name: Refresh public Patreon podcast feed
+        run: python3 scripts/fetch_patreon_podcast.py
+      - run: npm install
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

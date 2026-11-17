@@ -15,7 +15,7 @@ OUT = Path(__file__).resolve().parents[1] / "src/data/patreon-podcast.json"
 NS = {"content": "http://purl.org/rss/1.0/modules/content/"}
 def clean(value):
     value = re.sub(r"<[^>]*>", " ", value or "")
-    return re.sub(r"\\s+", " ", html.unescape(value)).strip()
+    return re.sub(r"\s+", " ", html.unescape(value)).strip()
 def main():
     req = urllib.request.Request(FEED, headers={"User-Agent": "SosialisturinPodcastFeed/1.0", "Accept": "application/rss+xml, application/xml, text/xml"})
     try:
@@ -40,19 +40,19 @@ def main():
             except (TypeError, ValueError):
                 date = "1970-01-01T00:00:00+00:00"
             # Public RSS previews are commonly labelled Preview / Trailer.
-            preview = bool(re.search(r"\\b(preview|trailer|teaser|hoyr byrjan|forsmak)\\b", title + " " + description[:120], re.I))
+            preview = bool(re.search(r"\b(preview|trailer|teaser|hoyr byrjan|forsmak)\b", title + " " + description[:120], re.I))
             episodes.append(dict(title=title, description=description, url=url, audio=audio, date=date, preview=preview))
         if not episodes:
             raise ValueError("Public RSS returned no episodes")
         episodes.sort(key=lambda e: e["date"], reverse=True)
         OUT.parent.mkdir(parents=True, exist_ok=True)
-        OUT.write_text(json.dumps(episodes, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+        OUT.write_text(json.dumps(episodes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"Updated {len(episodes)} public Patreon podcast entries")
     except Exception as exc:
         # Keep last successful snapshot and never break site deployments.
         print(f"WARNING: Patreon feed unavailable; keeping last snapshot: {exc}")
         if not OUT.exists():
             OUT.parent.mkdir(parents=True, exist_ok=True)
-            OUT.write_text("[]\\n", encoding="utf-8")
+            OUT.write_text("[]\n", encoding="utf-8")
 if __name__ == "__main__":
     main()

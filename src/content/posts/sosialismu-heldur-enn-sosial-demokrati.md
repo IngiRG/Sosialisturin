@@ -1,6 +1,6 @@
 ---
 title: "Sosialismu heldur enn sosial demokrati"
-description: "Ein spurningur sum sosialistar, serliga í vesturheiminum, mugu vera til reiðar at svara er, um sosial demokrati ikki er besta skipanin, ella um hon ikki er nóg góð."
+description: ""
 date: 2026-11-18
 category: "Ástøði"
 section: "Lesarabrøv"
@@ -27,7 +27,7 @@ Sosial demokrati er, meir enn nakað annað, ein verja móti sosialismuni, og j�
 
 Argumentið fyri einum sterkum stati og sosialiseringini av produktión fyri arbeiðaran heldur enn kapitalin verður ofta møtt við aftursvarinum at almenn produktión er minni effektiv enn privat. Men onki íborið er sum krevur tað. Tað er rætt at kapitalisma skarar framúr í kapital akkumulatión, men effektivitetur avhongur av endamálinum. Sosial ogn av produktiónsmiðlunum hevur harafturímóti eina mekanismu at nøkta menniskjaligan trivna, tí produktiónin tá verður skipað eftir sosialum tørvi, t.e. nýtsluvirði, heldur enn privatum vinningi.
 
-At siga at sosial demokrati er nokk, er tí at siga frá sær stríði móti útnyttingini av arbeiðaranum, stríðið móti konsentratiónini av ríkidømi á alsamt færri hondum og sosiala stríðinum og ójavnanum, sum er so eyðsæddur. Hetta eru ikki feilir í kapitalismuni, men íborin eyðkenni.
+At siga at sosial demokrati er nokk, er tí at siga frá sær stríði móti útnyttingini av arbeiðaranum, stríðið móti konsentratiónini av ríkidømi á alsamt færri hondum og ójavnanum, sum er so eyðsæddur. Hetta eru ikki feilir í kapitalismuni, men íborin eyðkenni.
 
 Øll vita at undir kapitalismuni, eisini sosial demokratisku temjingini, eru tað vanligi borgarin, sum tekur fallið tá ið skipanin svíkir, meðan arkitektarnir av kreppunum sleppa snikkaleysir frá ábyrgdini.
 

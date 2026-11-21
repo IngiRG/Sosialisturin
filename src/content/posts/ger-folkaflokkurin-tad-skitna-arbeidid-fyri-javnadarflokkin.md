@@ -9,7 +9,7 @@ featured: false
 tags: []
 ---
 
-Á landsfundi Fólkafloksins boðaði Beinir Johannesen frá, at útlendingar, sum koma til Føroya at arbeiða, skulu bíða í fleiri ár, áðrenn teir kunnu fáa familjuna higar. Løtu seinni í somu røðu segði hann, at familjan er kjarnin í samfelagnum. Eg kundi hugsað mær at vitað, hvat Javnaðarflokkurin heldur um hesi bæði útsagnini. Hevur arbeiðsfólkið, sum kemur higar at arbeiða lið um lið við okkum, minni tørv á at hava familjuna hjá sær, enn vit hava? Ella er tað tað, sum Javnaðarflokkurin er sinnaður at góðtaka fyri at sita í landsstýrinum? 
+Á landsfundi Fólkafloksins boðaði Beinir Johannesen frá, at útlendingar, sum koma til Føroya at arbeiða, skulu bíða í fleiri ár, áðrenn teir kunnu fáa familjuna higar. Løtu seinni í somu røðu segði hann, at familjan er kjarnin í samfelagnum. Eg kundi hugsað mær at vitað, hvat Javnaðarflokkurin heldur um hesar báðar útsagnirnar. Hevur arbeiðsfólkið, sum kemur higar at arbeiða lið um lið við okkum, minni tørv á at hava familjuna hjá sær, enn vit hava? Ella er tað tað, sum Javnaðarflokkurin er sinnaður at góðtaka fyri at sita í landsstýrinum? 
 
 Kanska er tað ov lagaligt mótvegis Javnaðarflokkinum at ganga út frá, at hetta er nakað, hann hevur góðtikið fyri samgongufriðin. Tí hvør hevur gjørt meira enn fólkatingsmaður floksins, Sjúrður Skaale, fyri at sannføra føroyingar um, at muslimsk tilflyting kann vera ein hóttan móti okkara fólkaræði? Í januar skrivaði hann um eina ímyndaða mammu í Malmø, hvørs barn gekk í flokki við 18 muslimskum børnum. Hann segði einki um, at hesi børnini høvdu gjørt nøkrum nakað. Talið og trúgvin vóru alt, lesarin fekk at vita um tey, og tað helt Sjúrður vera nóg mikið til at skilja, at mamman var órólig. 
 

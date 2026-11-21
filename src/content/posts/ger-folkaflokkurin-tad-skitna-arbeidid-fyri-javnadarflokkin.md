@@ -1,6 +1,6 @@
 ---
 title: "Ger Fólkaflokkurin tað skitna arbeiðið fyri Javnaðarflokkin?"
-description: "Hevur Sjúrður Skaale fingið so stóra ávirkan á sín egna flokk, at hetta er tann politikkurin, Javnaðarflokkurin vil hava?"
+description: ""
 date: 2026-11-21
 category: "Ástøði"
 section: "Lesarabrøv"

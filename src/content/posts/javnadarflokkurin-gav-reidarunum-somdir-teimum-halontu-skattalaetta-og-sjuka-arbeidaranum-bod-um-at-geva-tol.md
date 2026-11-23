@@ -1,6 +1,6 @@
 ---
-title: "JAVNAÐARFLOKKURIN GAV REIÐARUNUM SØMDIR, TEIMUM HÁLØNTU SKATTALÆTTA OG SJÚKA ARBEIÐARANUM BOÐ UM AT GEVA TOL"
-description: ""
+title: "Javnaðarflokkurin gav reiðarunum sømdir, teimum háløntu skattalætta og sjúka arbeiðaranum boð um at geva tol"
+description: "Hví hevur Javnaðarflokkurin so lætt við at skilja tørvin hjá reiðaranum á fíggjarligari trygd, men so ilt við at fáa somu fatan til høldar, tá ið ein tímaløntur arbeiðari verður sjúkur og skal rinda húsaleiguna næsta mánað?"
 date: 2026-11-23
 category: "Ástøði"
 section: "Lesarabrøv"
@@ -8,8 +8,6 @@ author: "Svarti Ravnur(pennanavn)"
 featured: false
 tags: []
 ---
-
--Hví hevur Javnaðarflokkurin so lætt við at skilja tørvin hjá reiðaranum á fíggjarligari trygd, men so ilt við at fáa somu fatan til høldar, tá ið ein tímaløntur arbeiðari verður sjúkur og skal rinda húsaleiguna næsta mánað?-
 
 "Samgongan vil lata langtíðarsjúk bíða", skrivaði Javnaðarflokkurin í mai 2020. Flokkurin hevði skotið upp, at langtíðarsjúk skuldu fáa sjúkradagpening alla sjúkratíðina. Samgongan feldi uppskotið og vísti á, at landsstýriskvinnan arbeiddi við sínum egna uppskoti. Javnaðarflokkurin helt lítið um ta grundgevingina. Tann, sum var sjúkur og misti inntøkuna, fekk jú lítið burtur úr at vita, at ein landsstýriskvinna arbeiddi við málinum.
 

@@ -23,4 +23,6 @@ At hækka hámarkið fyri sjúkradagpening varð mett at kosta landskassanum uml
 
 Tað ber sjálvandi til at svara, at í eini samgongu má ein gera semjur. Men skattalættin varð samtyktur, meðan Javnaðarflokkurin sjálvur hevði løgmann. Veiðiloyvini vórðu longd eftir eini semju, flokkurin sjálvur skrivaði undir. Og tá ið uppskotið um sjúkradagpening fall, var tað floksins egna landsstýriskvinna, sum greiddi teimum sjúku frá, at tey máttu bíða. Á hvørjum av hesum trimum økjum heldur Javnaðarflokkurin sjálvur, at ein veljari, sum vil hava eitt javnari býti av samfelagsins virðum, kann síggja aftur, at hann hevur atkvøtt fyri Javnaðarflokkinum?
 
-Tað er her, Monbiot rakar. Tá ið ein vinstriflokkur í nóg langa tíð hevur greitt sínum egnu veljarum frá, hví tað er neyðugt at føra tann politikkin, sum teir kundu fingið frá teimum borgarligu, kann tað enda við, at veljararnir trúgva honum.
+Tað er her, Monbiot rakar. Tá ið ein vinstriflokkur í nóg langa tíð hevur greitt sínum egnu veljarum frá, hví tað er neyðugt at føra tann politikkin, sum teir kundu fingið frá teimum borgarligu, kann tað enda við, at veljararnir trúgva honum. Og hvat skal ein so við Javnaðarflokkinum?
+
+Eg hevði fegin hoyrt flokkin svara tí spurninginum. Helst við atkvøðum í Løgtinginum. Hundrað ára søguna kunnu vit lesa um sjálv.

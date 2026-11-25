@@ -46,6 +46,9 @@ Bústaðarliga eru ikki-vesturlendskir borgarar heilt týðiligt yvirrepræsente
 Hesi øki, arbeiðsloysi og manglandi sosialt netværk massa produsera kriminalitet og sosialt útsettar borgarar. 
 HETTA NOYÐIST IKKI AT VERA ÚRSLITIÐ Í FØROYUM.
 
+Ein kanning hjá CEPOS(Store forskelle i udlændinges kriminalitet...)
+vísti at hóast útlendingar sum heild fremja fleiri brotsverk enn danskir statsborgarar, fremja teir týðandi færri brotsverk um teir eru í starvi ella skúla enn danskir statsborgarar. Samstundis eru brotsverkini í miðal minni alvorlig enn brotsverkini framd av donskum statsborgarum. Ein greið ábending um at jú, tað eru teirra umstøður og ikki teirra uppruni, sum avgerða kriminalitetstøði.
+
 At ganga útfrá at okkurt ónt er íborið í øðrum er ikki rætti framferðarháttur, og er tað eiheldur nakrantíð ávíst; hóast tað, er hetta retoriska útgangsstøði hjá hesum alsamt meira útbreidda høgrarákinum.
 
 Tað er sjálvandi altíð gott at hava kjak um stórar broytingar í samfelagnum. Demokrati snýr seg hóast alt um orðaskiftið, sum Hal Koch legði dent á, á sinni. Men óttin hjá hesum vonginum fer yvirum markið av tí rationella, og virðingin fyri øðrum er hareftir.
